@@ -6,7 +6,7 @@ import os
 app = Flask(__name__)
 
 # তোমার ওয়েবসাইটের মূল লিংক
-BASE_URL = "https://curly-bassoon-six.vercel.app/"  # এখানে তোমার ডোমেইন বা Replit লিংক বসাও
+BASE_URL = "https://getterlink.onrender.com"  # এখানে তোমার ডোমেইন বা Replit লিংক বসাও
 
 # JSON ফাইলের নাম
 JSON_FILE = "link.json"
